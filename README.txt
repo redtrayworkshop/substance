@@ -1,4 +1,4 @@
-//
+// Hi there, tom.  I changed this on my local computer. Did you GIT it?
 CONTENTS OF THIS FILE
 ---------------------
 
